@@ -1,0 +1,64 @@
+.input_style{
+    position: absolute;
+    right: 0px;
+    border: 1px solid black;
+    height: 30px;
+    border-radius: 5px;
+}
+div{
+    width: 300px;
+    height: 50px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-200px);
+}
+label{
+    position: absolute;
+    right: 165px;
+}
+.login{
+    position: absolute;
+    right: 50px;
+    height: 30px;
+}
+form{
+    margin-top: 20px;
+}
+a{
+    position: absolute;
+    left: 45%;
+    top:35%;
+    color: #ff0000;
+}
+p{
+    position: absolute;
+    width: 200px;
+    left: 300px;
+    top: -5px;
+    font-size: 10px;
+    color: #ff0000;
+}
+table{
+    margin: 20px auto;
+}
+h2{
+    width: 300px;
+    margin: 50px auto;
+}
+.displayH2{
+    width: 220px;
+    margin: 50px auto;
+}
+#display_a{
+    position: relative;
+    top: 10px;
+    left: 47%;
+    margin: 10px auto;
+}
+#AfterClickBtn{
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    left: 80%;
+    transform: translateX(-200px);
+}
