@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My First Application</string>
+    <string name="tv_text1">looking on my works</string>
+    <string name="input_length">200dp</string>
+</resources>
